@@ -20,7 +20,7 @@
 ## MySQL😃
 
 * [mysql安装教程](https://github.com/Bronya0/first/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/mysql%208.0.18%20%E5%B0%8F%E7%99%BD%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)
-* [mysql学习笔记.md](https://github.com/Bronya0/first/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/mysql%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
+* [mysql学习笔记](https://github.com/Bronya0/first/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/mysql%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 * [MySQL学习笔记2](https://github.com/Bronya0/first/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B02.md)
 * [JDBC](https://github.com/Bronya0/first/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/JDBC.md)
 
