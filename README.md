@@ -1,6 +1,8 @@
 本库储存所有学习过程中的笔记。
 
-## Java基础
+公众号『勾玉技术』回复『95』获取95套实战项目讲解视频。
+
+## Java基础😊
 
 - [Java自学第1期——带你从0开始指尖触碰java！](https://github.com/Bronya0/first/blob/master/java%E5%9F%BA%E7%A1%80/Java%E8%87%AA%E5%AD%A6%E7%AC%AC1%E6%9C%9F%E2%80%94%E2%80%94%E5%B8%A6%E4%BD%A0%E4%BB%8E0%E5%BC%80%E5%A7%8B%E6%8C%87%E5%B0%96%E8%A7%A6%E7%A2%B0java%EF%BC%81.md)
 - [Java自学第2期——注释、数据类型、运算符、方法](https://github.com/Bronya0/first/blob/master/java%E5%9F%BA%E7%A1%80/Java%E8%87%AA%E5%AD%A6%E7%AC%AC2%E6%9C%9F%E2%80%94%E2%80%94%E6%B3%A8%E9%87%8A%E3%80%81%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E3%80%81%E8%BF%90%E7%AE%97%E7%AC%A6%E3%80%81%E6%96%B9%E6%B3%95.md)
@@ -15,14 +17,14 @@
 - [java基础第11期——Stream流、方法引用、junit单元测试](https://github.com/Bronya0/first/blob/master/java%E5%9F%BA%E7%A1%80/java%E5%9F%BA%E7%A1%80%E7%AC%AC11%E6%9C%9F%E2%80%94%E2%80%94Stream%E6%B5%81%E3%80%81%E6%96%B9%E6%B3%95%E5%BC%95%E7%94%A8%E3%80%81junit%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95.md)
 - [java基础第12期——反射、注解](https://github.com/Bronya0/first/blob/master/java%E5%9F%BA%E7%A1%80/java%E5%9F%BA%E7%A1%80%E7%AC%AC12%E6%9C%9F%E2%80%94%E2%80%94%E5%8F%8D%E5%B0%84%E3%80%81%E6%B3%A8%E8%A7%A3.md)
 
-## MySQL
+## MySQL😃
 
 * [mysql安装教程](https://github.com/Bronya0/first/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/mysql%208.0.18%20%E5%B0%8F%E7%99%BD%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)
 * [mysql学习笔记.md](https://github.com/Bronya0/first/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/mysql%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 * [MySQL学习笔记2](https://github.com/Bronya0/first/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B02.md)
 * [JDBC](https://github.com/Bronya0/first/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/JDBC.md)
 
-## html、css、js
+## html、css、js😢
 
 前端的内容，不需要精通，基础的肯定是要会的
 
@@ -30,7 +32,7 @@
 * [css](https://www.runoob.com/css/css-tutorial.html)
 * [js](https://www.runoob.com/js/js-tutorial.html)
 
-## Spring
+## Spring😉
 
 
 
