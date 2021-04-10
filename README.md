@@ -33,6 +33,7 @@
 * [js](https://www.runoob.com/js/js-tutorial.html)
 
 ## Spring
-[什么是自动装配](https://www.cnblogs.com/bear7/p/12531016.html)
+[什么是bean？](https://www.awaimai.com/2596.html)
+[什么是自动装配？](https://www.cnblogs.com/bear7/p/12531016.html)
 
 
