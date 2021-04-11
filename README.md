@@ -34,6 +34,7 @@
 
 ## Spring
 * [什么是bean？](https://www.awaimai.com/2596.html)
+* [spring中用于声明bean的注解](https://blog.csdn.net/weixin_42078760/article/details/106628714)
 * [什么是自动装配？](https://www.cnblogs.com/bear7/p/12531016.html)
 
 
