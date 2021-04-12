@@ -55,6 +55,7 @@
 
 ## 中间件
 * [Windows环境下RabbitMQ的启动和停止命令](https://blog.csdn.net/zxl646801924/article/details/80435231)
+* [RabbitMQ视频教程](https://www.bilibili.com/video/av969351884)
 
 
 
