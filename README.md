@@ -45,7 +45,7 @@
 * [教程1：w3school](https://www.w3cschool.cn/mybatis/)
 
 ## SpringBoot
-[SpringBoot整合各个技术](https://github.com/wuyouzhuguli/SpringAll)
+* [SpringBoot整合各个技术](https://github.com/wuyouzhuguli/SpringAll)
 
 
 ## SpringCloud
