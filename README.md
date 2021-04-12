@@ -31,6 +31,7 @@
 * [html5](https://www.runoob.com/html/html5-intro.html)
 * [css](https://www.runoob.com/css/css-tutorial.html)
 * [js](https://www.runoob.com/js/js-tutorial.html)
+* [模板引擎 thymeleaf](https://www.cnblogs.com/iceb/p/9212484.html)
 
 ## Spring
 * [什么是bean？](https://www.awaimai.com/2596.html)
