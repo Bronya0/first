@@ -41,6 +41,8 @@
 
 ## SpringMVC
 
+## mybatis
+* [教程1：w3school](https://www.w3cschool.cn/mybatis/)
 
 ## SpringBoot
 
