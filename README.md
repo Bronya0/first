@@ -24,6 +24,9 @@
 * [MySQL学习笔记2](https://github.com/Bronya0/first/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B02.md)
 * [JDBC](https://github.com/Bronya0/first/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/JDBC.md)
 
+## Redis
+* [分布式下的Redis](https://blog.csdn.net/qq_33524158/article/details/90815673?spm=1001.2014.3001.5501)
+
 ## 前端
 
 前端的内容，不需要精通，基础的肯定是要会的
