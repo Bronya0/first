@@ -1,55 +1,98 @@
-<section id="nice" data-tool="mdnice编辑器" data-website="https://www.mdnice.com" style="font-size: 16px; color: black; padding: 0 10px; line-height: 1.6; word-spacing: 0px; letter-spacing: 0px; word-wrap: break-word; text-align: left; font-family: 'PingFang SC', 'Microsoft YaHei', sans-serif; word-break: break-all;"><h1 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; padding: 0px; color: black; font-size: 1.7em; font-weight: normal; border-bottom: 2px solid hsl(216, 100%, 68%);"><span class="prefix" style="display: none;"></span><span class="content" style="background: hsl(216, 100%, 68%); color: white; padding: 3px 10px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">什么是Java</span><span class="suffix"></span></h1>
-<p data-tool="mdnice编辑器" style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: #666;">Java语言是美国Sun公司（Stanford University Network），在1995年推出的高级的编程语言。所谓编程语言，是 计算机的语言，人们可以使用编程语言对计算机下达命令，让计算机完成人们需要的功能。</p>
-<h1 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; padding: 0px; color: black; font-size: 1.7em; font-weight: normal; border-bottom: 2px solid hsl(216, 100%, 68%);"><span class="prefix" style="display: none;"></span><span class="content" style="background: hsl(216, 100%, 68%); color: white; padding: 3px 10px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">Java定位</span><span class="suffix"></span></h1>
-<p data-tool="mdnice编辑器" style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: #666;"><strong style="font-weight: bold; color: hsl(216, 80%, 44%);">后端开发</strong>、<strong style="font-weight: bold; color: hsl(216, 80%, 44%);">网站开发</strong>、<strong style="font-weight: bold; color: hsl(216, 80%, 44%);">安卓手机开发</strong>、<strong style="font-weight: bold; color: hsl(216, 80%, 44%);">大数据处理</strong>、<strong style="font-weight: bold; color: hsl(216, 80%, 44%);">中间件编写</strong> ，Java语言主要应用在互联网程序的开发领域。常见的互联网程序比如天猫、京东、物流系统、网银系统等，以及服 务器后台处理大数据的存储、查询、数据挖掘等也有很多应用。</p>
-<h1 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; padding: 0px; color: black; font-size: 1.7em; font-weight: normal; border-bottom: 2px solid hsl(216, 100%, 68%);"><span class="prefix" style="display: none;"></span><span class="content" style="background: hsl(216, 100%, 68%); color: white; padding: 3px 10px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">Java特点</span><span class="suffix"></span></h1>
-<ol data-tool="mdnice编辑器" style="margin-top: 8px; margin-bottom: 8px; color: black; list-style-type: decimal; padding-left: 2em;">
-<li style="color: #666;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;"><strong style="font-weight: bold; color: hsl(216, 80%, 44%);">简单</strong>
-基于c++，有c++基础好上手，同时摒弃了复杂的指针；不需要删除未引用对象，因为java有自动垃圾回收；有人说java代码太长，这个在编辑器里常用代码都是自动补全的，你完全可以把重点放在该放的地方。</section></li><li style="color: #666;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;"><strong style="font-weight: bold; color: hsl(216, 80%, 44%);">面向对象</strong>
-对象、类、抽象、封装、继承、多态；</section></li><li style="color: #666;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;"><strong style="font-weight: bold; color: hsl(216, 80%, 44%);">多平台</strong>
-一次编译，处处运行（报错）：Java代码编译成字节码，能够在各个平台独自的JVM（Java Virtual Machine ：Java虚拟机，简称JVM，是运行所有Java程序的假想计算机，是Java程序的 运行环境，是Java 最具吸引力的特性之一）。我们编写的Java代码，都运行在 JVM 之上。</section></li><li style="color: #666;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;"><strong style="font-weight: bold; color: hsl(216, 80%, 44%);">比较安全</strong>
-（1）没有显式指针
-（2）java程序在JVM沙箱里运行
-（3）类装载器：本地文件系统与网络资源导入的类分开包装，更安全
-（4）字节码校验器：检查代码中是否有违反对象访问权限的非法代码
-（5）安全管理器：确定类可以访问什么资源，规定读写权限
-（6）可扩展安全性，开发商自行添加</section></li><li style="color: #666;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;"><strong style="font-weight: bold; color: hsl(216, 80%, 44%);">强大健壮</strong>
-自动垃圾回收，内存管理优秀；有异常处理和类型检查机制；生态丰富，学习资源较多；java的库很多，应有尽有方标使用</section></li><li style="color: #666;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;"><strong style="font-weight: bold; color: hsl(216, 80%, 44%);">可移植</strong>
-可以将字节码携带到任何平台</section></li><li style="color: #666;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;"><strong style="font-weight: bold; color: hsl(216, 80%, 44%);">较高性能</strong>
-字节代码接近本地代码，不算特别高但也不低</section></li><li style="color: #666;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;"><strong style="font-weight: bold; color: hsl(216, 80%, 44%);">分布式</strong>
-可以通过互联网上的任何机器调用方法来访问文件</section></li><li style="color: #666;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;"><strong style="font-weight: bold; color: hsl(216, 80%, 44%);">多线程</strong>
-可以定义多个线程一次处理多个任务，每个线程不占用内存</section></li></ol>
-<h2 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; padding: 0px; font-weight: normal; color: #333; font-size: 1.4em; border-bottom: 1px solid hsl(216, 100%, 68%);"><span class="prefix" style="display: none;"></span><span class="content" style="border-bottom: 1px solid hsl(216, 100%, 68%);">JRE和JDK</span><span class="suffix"></span></h2>
-<p data-tool="mdnice编辑器" style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: #666;">JRE (Java Runtime Environment) ：是Java程序的运行环境，包含 JVM 和运行时所需要的 <strong style="font-weight: bold; color: hsl(216, 80%, 44%);">核心类库</strong> 。
-JDK (Java Development Kit)：是Java程序开发工具包，<strong style="font-weight: bold; color: hsl(216, 80%, 44%);">包含</strong> JRE 和开发人员使用的工具。
-想要<strong style="font-weight: bold; color: hsl(216, 80%, 44%);">运行</strong>一个<strong style="font-weight: bold; color: hsl(216, 80%, 44%);">已有</strong>的Java程序，那么只需安装 JRE 即可。
-想要<strong style="font-weight: bold; color: hsl(216, 80%, 44%);">开发</strong>一个<strong style="font-weight: bold; color: hsl(216, 80%, 44%);">全新</strong>的Java程序，那么必须安装 JDK 。
-*<strong style="font-weight: bold; color: hsl(216, 80%, 44%);">JDK&gt;JRE&gt;JVM</strong></p>
-<ul data-tool="mdnice编辑器" style="margin-top: 8px; margin-bottom: 8px; color: black; list-style-type: disc; padding-left: 2em;">
-<li style="color: #666;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">JDK下载地址：https://www.oracle.com/technetwork/java/javase/downloads/</section></li><li style="color: #666;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">安装时选择下一步即可，安装路径可以自己建立一个，记住位置方便查找（路径全程不能有中文或者特殊符号或空格。有的话改成英文）</section></li></ul>
-<h2 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; padding: 0px; font-weight: normal; color: #333; font-size: 1.4em; border-bottom: 1px solid hsl(216, 100%, 68%);"><span class="prefix" style="display: none;"></span><span class="content" style="border-bottom: 1px solid hsl(216, 100%, 68%);">开发环境配置</span><span class="suffix"></span></h2>
-<p data-tool="mdnice编辑器" style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: #666;"><em style="font-style: normal; font-weight: normal; color: white; background: hsl(244, 100%, 75%); padding: 2px 4px; margin: 0px 2px;">开发Java程序，需要使用JDK中提供的工具，工具在JDK9安装目录的 bin 目录下。在DOS命令行下使用这些工具，就要先进入到JDK的bin目录下，这个过程就会非常的麻烦。 不进入JDK的 bin 目录，这些工具就不能使用，会报错。为了开发方便，我们想在任意的目录下都可以使用JDK的开发工具，则必须要配置环境变量，配置环境变量的意义 在于告诉操作系统，我们使用的JDK开发工具在哪个目录下。</em></p>
-<ul data-tool="mdnice编辑器" style="margin-top: 8px; margin-bottom: 8px; color: black; list-style-type: disc; padding-left: 2em;">
-<li style="color: #666;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">计算机鼠标右键,选择 ==属性==</section></li><li style="color: #666;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">选择 ==高级系统设置==点击 ==环境变量==</section></li><li style="color: #666;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">点击 ==新建== ，创建新的环境变量</section></li><li style="color: #666;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">变量名输入 ==JAVA_HOME== ，变量值输入JDK的==安装目录== c:\Java9\jdk-9.0.1（此路径是示范，你要找到自己安装的路径复制下来用）</section></li><li style="color: #666;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">选中 ==Path== 环境变量， 双击或者点击==编辑==</section></li><li style="color: #666;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">在变量值的最前面，键入  %JAVA_HOME%\bin;   分号必须要写，必须是英文格式。</section></li><li style="color: #666;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">环境变量配置完成，重新开启==DOS命令行==（左下角搜索栏输入 ==命令提示符==），在任意目录下输入 ==javac== 命令，运行成功。</section></li></ul>
-<h2 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; padding: 0px; font-weight: normal; color: #333; font-size: 1.4em; border-bottom: 1px solid hsl(216, 100%, 68%);"><span class="prefix" style="display: none;"></span><span class="content" style="border-bottom: 1px solid hsl(216, 100%, 68%);">集成开发工具IDEA</span><span class="suffix"></span></h2>
-<p data-tool="mdnice编辑器" style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: #666;">IDEA是一个专门针对Java的<em style="font-style: normal; font-weight: normal; color: white; background: hsl(244, 100%, 75%); padding: 2px 4px; margin: 0px 2px;">集成开发工具</em>(IDE)，由Java语言编写。所以，需要有JRE运行环境并配置好环境变量。 它可以极大地提升我们的开发效率。可以自动编译，检查错误。在公司中，使用的就是IDEA进行开发。</p>
-<ul data-tool="mdnice编辑器" style="margin-top: 8px; margin-bottom: 8px; color: black; list-style-type: disc; padding-left: 2em;">
-<li style="color: #666;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">虽然Java集成开发工具（IDA）有很多，但最好用、最强大的毫无疑问是IDEA，无须犹豫。</section></li><li style="color: #666;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">intellij idea下载地址：https://www.jetbrains.com/idea/download/#section=windows</section></li><li style="color: #666;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">初学者建议下载右边免费的community版本，放心功能绝对够用。</section></li></ul>
-<h2 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; padding: 0px; font-weight: normal; color: #333; font-size: 1.4em; border-bottom: 1px solid hsl(216, 100%, 68%);"><span class="prefix" style="display: none;"></span><span class="content" style="border-bottom: 1px solid hsl(216, 100%, 68%);">idea安装及使用教程</span><span class="suffix"></span></h2>
-<ul data-tool="mdnice编辑器" style="margin-top: 8px; margin-bottom: 8px; color: black; list-style-type: disc; padding-left: 2em;">
-<li style="color: #666;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">此软件集成了32位和64位，双击下载的 ideaIU-2019.1.exe 进入安装。</section></li><li style="color: #666;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">点next，到了==安装路径==界面改一下，把路径改成D盘或者E盘，尽量不要安装在C盘，日常中电脑软件或者大文件都是这样（C盘是系统盘，必须保证有余留空间，不然电脑会卡爆），当然你C盘有300G以上也可以装在C盘。（如果你只有C盘可能是没分盘，建议百度寻找教程，很容易）。</section></li><li style="color: #666;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">选择==64bit-launcher==，点next</section></li><li style="color: #666;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">点击==install==完成安装。</section></li></ul>
-<h2 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; padding: 0px; font-weight: normal; color: #333; font-size: 1.4em; border-bottom: 1px solid hsl(216, 100%, 68%);"><span class="prefix" style="display: none;"></span><span class="content" style="border-bottom: 1px solid hsl(216, 100%, 68%);">初次使用idea</span><span class="suffix"></span></h2>
-<ul data-tool="mdnice编辑器" style="margin-top: 8px; margin-bottom: 8px; color: black; list-style-type: disc; padding-left: 2em;">
-<li style="color: #666;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">选择 do not import settings（不导入任何设置），点击 OK</section></li><li style="color: #666;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">选择 Create New Project</section></li><li style="color: #666;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">这里能看到红字提示&lt; NO SDK &gt;,点击右边 ==new== 按钮，找到之前你自己安装的JDK目录，点击目录并选择ok即可</section></li><li style="color: #666;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">点击next、next，然后为你的工程起个名字（英文），默认也行，第二行是工程存储位置，自己建立一个文件夹即可。点击finish完成</section></li><li style="color: #666;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">打开一个每日一帖对话框，取消左下角每次启动显示，点击==close==</section></li><li style="color: #666;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">完毕</section></li></ul>
-<h2 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; padding: 0px; font-weight: normal; color: #333; font-size: 1.4em; border-bottom: 1px solid hsl(216, 100%, 68%);"><span class="prefix" style="display: none;"></span><span class="content" style="border-bottom: 1px solid hsl(216, 100%, 68%);">创建包和类</span><span class="suffix"></span></h2>
-<p data-tool="mdnice编辑器" style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: #666;">*<strong style="font-weight: bold; color: hsl(216, 80%, 44%);">Java里==工程project== 包含 ==包package== 包含 ==类class==，代码写在类class上；</strong></p>
-<ul data-tool="mdnice编辑器" style="margin-top: 8px; margin-bottom: 8px; color: black; list-style-type: disc; padding-left: 2em;">
-<li style="color: #666;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">展开创建的工程，在源代码目录 src 上，鼠标右键，选择 new-&gt;package ，自定义包名（必须英文） ， 点击确定。</section></li><li style="color: #666;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">在创建好的包上，鼠标右键，选择 new-&gt;class 创建类，键入类名。</section></li></ul>
-<h1 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; padding: 0px; color: black; font-size: 1.7em; font-weight: normal; border-bottom: 2px solid hsl(216, 100%, 68%);"><span class="prefix" style="display: none;"></span><span class="content" style="background: hsl(216, 100%, 68%); color: white; padding: 3px 10px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">第一个程序：hello world</span><span class="suffix"></span></h1>
-<ul data-tool="mdnice编辑器" style="margin-top: 8px; margin-bottom: 8px; color: black; list-style-type: disc; padding-left: 2em;">
-<li style="color: #666;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">在代码编辑区，键入主方法，并输出 HelloWorld 。
-在public class ***（此处默认是你定义的类名，不可更改）==后的{ }里==输入以下代码：</section></li></ul>
-<pre class="custom" data-tool="mdnice编辑器" style="margin-top: 10px; margin-bottom: 10px; border-radius: 5px; box-shadow: rgba(0, 0, 0, 0.55) 0px 2px 10px;"><span style="display: block; background: url(https://files.mdnice.com/user/3441/876cad08-0422-409d-bb5a-08afec5da8ee.svg); height: 30px; width: 100%; background-size: 40px; background-repeat: no-repeat; background-color: #1E1E1E; margin-bottom: -7px; border-radius: 5px; background-position: 10px 10px;"></span><code class="hljs" style="overflow-x: auto; padding: 16px; color: #DCDCDC; display: -webkit-box; font-family: Operator Mono, Consolas, Monaco, Menlo, monospace; font-size: 12px; -webkit-overflow-scrolling: touch; padding-top: 15px; background: #1E1E1E; border-radius: 5px;"><span class="hljs-function" style="color: #DCDCDC; line-height: 26px;"><span class="hljs-keyword" style="color: #569CD6; line-height: 26px;">public</span>&nbsp;<span class="hljs-keyword" style="color: #569CD6; line-height: 26px;">static</span>&nbsp;<span class="hljs-keyword" style="color: #569CD6; line-height: 26px;">void</span>&nbsp;<span class="hljs-title" style="color: #DCDCDC; line-height: 26px;">main</span><span class="hljs-params" style="color: #DCDCDC; line-height: 26px;">(String[]&nbsp;args)</span></span>{<br>&nbsp;System.out.println(<span class="hljs-string" style="color: #D69D85; line-height: 26px;">"hello&nbsp;world!"</span>);<br>}<br></code></pre>
-<ul data-tool="mdnice编辑器" style="margin-top: 8px; margin-bottom: 8px; color: black; list-style-type: disc; padding-left: 2em;">
-<li style="color: #666;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">注意：不要漏掉分号。</section></li><li style="color: #666;"><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;">鼠标右键——点击 =='run ***.main()'==即可运行代码，结果在下方显示：hello world！</section></li></ul>
-</section>
+# 什么是Java
+ Java语言是美国Sun公司（Stanford University Network），在1995年推出的高级的编程语言。所谓编程语言，是 计算机的语言，人们可以使用编程语言对计算机下达命令，让计算机完成人们需要的功能。
+# Java定位
+
+ **后端开发**、**网站开发**、**安卓手机开发**、**大数据处理**、**中间件编写** ，Java语言主要应用在互联网程序的开发领域。常见的互联网程序比如天猫、京东、物流系统、网银系统等，以及服 务器后台处理大数据的存储、查询、数据挖掘等也有很多应用。
+
+# Java特点
+ 1. **简单** 
+ 基于c++，有c++基础好上手，同时摒弃了复杂的指针；不需要删除未引用对象，因为java有自动垃圾回收；有人说java代码太长，这个在编辑器里常用代码都是自动补全的，你完全可以把重点放在该放的地方。
+ 2.  **面向对象**
+  对象、类、抽象、封装、继承、多态；
+ 3.  **多平台** 
+一次编译，处处运行（报错）：Java代码编译成字节码，能够在各个平台独自的JVM（Java Virtual Machine ：Java虚拟机，简称JVM，是运行所有Java程序的假想计算机，是Java程序的 运行环境，是Java 最具吸引力的特性之一）。我们编写的Java代码，都运行在 JVM 之上。
+ 5. **比较安全** 
+ （1）没有显式指针
+	（2）java程序在JVM沙箱里运行
+	（3）类装载器：本地文件系统与网络资源导入的类分开包装，更安全
+	（4）字节码校验器：检查代码中是否有违反对象访问权限的非法代码
+	（5）安全管理器：确定类可以访问什么资源，规定读写权限
+	（6）可扩展安全性，开发商自行添加
+6. **强大健壮**
+    自动垃圾回收，内存管理优秀；有异常处理和类型检查机制；生态丰富，学习资源较多；java的库很多，应有尽有方标使用
+ 6. **可移植**
+ 可以将字节码携带到任何平台
+ 7. **较高性能**
+  字节代码接近本地代码，不算特别高但也不低
+  8. **分布式**
+  可以通过互联网上的任何机器调用方法来访问文件
+  10. **多线程**
+  可以定义多个线程一次处理多个任务，每个线程不占用内存 
+
+## JRE和JDK 
+JRE (Java Runtime Environment) ：是Java程序的运行环境，包含 JVM 和运行时所需要的 **核心类库** 。 
+JDK (Java Development Kit)：是Java程序开发工具包，**包含** JRE 和开发人员使用的工具。
+ 想要**运行**一个**已有**的Java程序，那么只需安装 JRE 即可。 
+ 想要**开发**一个**全新**的Java程序，那么必须安装 JDK 。
+ ***JDK>JRE>JVM**
+* JDK下载地址：https://www.oracle.com/technetwork/java/javase/downloads/
+ * 安装时选择下一步即可，安装路径可以自己建立一个，记住位置方便查找（路径全程不能有中文或者特殊符号或空格。有的话改成英文）
+ 
+
+
+
+
+## 开发环境配置
+
+*开发Java程序，需要使用JDK中提供的工具，工具在JDK9安装目录的 bin 目录下。在DOS命令行下使用这些工具，就要先进入到JDK的bin目录下，这个过程就会非常的麻烦。 不进入JDK的 bin 目录，这些工具就不能使用，会报错。为了开发方便，我们想在任意的目录下都可以使用JDK的开发工具，则必须要配置环境变量，配置环境变量的意义 在于告诉操作系统，我们使用的JDK开发工具在哪个目录下。*
+* 计算机鼠标右键,选择 ==属性==
+* 选择 ==高级系统设置==点击 ==环境变量==
+* 点击 ==新建== ，创建新的环境变量
+*  变量名输入 ==JAVA_HOME== ，变量值输入JDK的==安装目录== c:\Java9\jdk-9.0.1（此路径是示范，你要找到自己安装的路径复制下来用）
+* 选中 ==Path== 环境变量， 双击或者点击==编辑==
+*  在变量值的最前面，键入  %JAVA_HOME%\bin;   分号必须要写，必须是英文格式。
+* 环境变量配置完成，重新开启==DOS命令行==（左下角搜索栏输入 ==命令提示符==），在任意目录下输入 ==javac== 命令，运行成功。
+
+
+
+
+## 集成开发工具IDEA
+
+IDEA是一个专门针对Java的*集成开发工具*(IDE)，由Java语言编写。所以，需要有JRE运行环境并配置好环境变量。 它可以极大地提升我们的开发效率。可以自动编译，检查错误。在公司中，使用的就是IDEA进行开发。
+* 虽然Java集成开发工具（IDA）有很多，但最好用、最强大的毫无疑问是IDEA，无须犹豫。
+* intellij idea下载地址：https://www.jetbrains.com/idea/download/#section=windows
+* 初学者建议下载右边免费的community版本，放心功能绝对够用。
+## idea安装及使用教程
+
+* 此软件集成了32位和64位，双击下载的 ideaIU-2019.1.exe 进入安装。
+* 点next，到了==安装路径==界面改一下，把路径改成D盘或者E盘，尽量不要安装在C盘，日常中电脑软件或者大文件都是这样（C盘是系统盘，必须保证有余留空间，不然电脑会卡爆），当然你C盘有300G以上也可以装在C盘。（如果你只有C盘可能是没分盘，建议百度寻找教程，很容易）。
+* 选择==64bit-launcher==，点next
+* 点击==install==完成安装。
+
+
+
+
+
+## 初次使用idea
+* 选择 do not import settings（不导入任何设置），点击 OK
+* 选择 Create New Project
+* 这里能看到红字提示< NO SDK >,点击右边 ==new== 按钮，找到之前你自己安装的JDK目录，点击目录并选择ok即可
+* 点击next、next，然后为你的工程起个名字（英文），默认也行，第二行是工程存储位置，自己建立一个文件夹即可。点击finish完成
+* 打开一个每日一帖对话框，取消左下角每次启动显示，点击==close==
+* 完毕
+## 创建包和类
+***Java里==工程project== 包含 ==包package== 包含 ==类class==，代码写在类class上；**
+* 展开创建的工程，在源代码目录 src 上，鼠标右键，选择 new->package ，自定义包名（必须英文） ， 点击确定。
+* 在创建好的包上，鼠标右键，选择 new->class 创建类，键入类名。
+# 第一个程序：hello world
+* 在代码编辑区，键入主方法，并输出 HelloWorld 。
+  在public class ***（此处默认是你定义的类名，不可更改）==后的{ }里==输入以下代码：
+```java
+public static void main(String[] args){
+	System.out.println("hello world!");
+}
+```
+* 注意：不要漏掉分号。
+* 鼠标右键——点击 =='run ***.main()'==即可运行代码，结果在下方显示：hello world！
+
+ 
