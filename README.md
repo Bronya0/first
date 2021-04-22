@@ -61,6 +61,7 @@
 * [RabbitMQ视频教程](https://www.bilibili.com/video/av969351884)
 * [rabbitmq笔记](https://blog.ysboke.cn/archives/64.html)
 * [shiro视频教程](https://www.bilibili.com/video/BV1LK4y1K7DS?from=search&seid=816858571400911628)
+* [elasticsearch视频](https://www.bilibili.com/video/BV1hh411D7sb?from=search&seid=12291959938537971608)
 
 
 
